@@ -1,0 +1,17 @@
+{
+  "name": "奈良グルメ検索",
+  "short_name": "奈良グルメ検索",
+  "description": "2つの条件で、理想のお店を見つけよう",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#14532d",
+  "theme_color": "#14532d",
+  "icons": [
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
